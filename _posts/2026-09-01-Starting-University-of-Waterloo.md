@@ -1,6 +1,7 @@
 ---
 title: "Starting University of Waterloo"
 date: 2026-09-01
+---
 
 Hey guys,
 
@@ -21,4 +22,3 @@ All the best,
 
 Roy
 
----
